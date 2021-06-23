@@ -2,6 +2,17 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## What is this project?
+
+The base purpose of weather-app is to make an application where you can check the weather information of any cities in the world.
+Note: The project is still in development, so if you have any further idea, you can contact me via my email: phuclevinh2000@gmail.com
+
+## How to install this weather-app
+
+1. Clone this github respository
+2. Open your terminal to the folder location
+3. Run `npm start`
+
 ## Available Scripts
 
 In the project directory, you can run:
