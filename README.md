@@ -17,6 +17,9 @@ Note: The project is still in development, so if you have any further idea, you 
 
 In the project directory, you can run:
 
+## Screen shot from the app
+![image](https://user-images.githubusercontent.com/47014132/123090189-89c77100-d430-11eb-8084-8af66976ac84.png)
+
 ### `yarn start`
 
 Runs the app in the development mode.\
