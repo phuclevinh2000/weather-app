@@ -76,7 +76,7 @@ const Display = ({feelsLike, wind,humidity,
             <hr />
             <table className="tableBot">
                 <tr>
-                    <td>Feels Like: {Math.round(feelsLike)}c</td>
+                    <td>Feels Like: {Math.round(feelsLike)}°c</td>
                     <td>Pressure: {pressure} hPa</td>
                 </tr>
             </table>
